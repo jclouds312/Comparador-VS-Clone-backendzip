@@ -1,0 +1,9 @@
+{
+  "appId": "app.softgan.vendedoras",
+  "appName": "SOFTGAN IA",
+  "webDir": "dist",
+  "server": {
+    "url": "https://soft-gan-android-2.base44.app/",
+    "cleartext": true
+  }
+}

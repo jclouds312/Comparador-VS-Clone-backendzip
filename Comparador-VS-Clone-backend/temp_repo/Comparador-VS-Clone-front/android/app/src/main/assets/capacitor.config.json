@@ -1,0 +1,9 @@
+{
+	"appId": "app.softgan.vendedoras",
+	"appName": "SOFTGAN",
+	"webDir": "dist",
+	"server": {
+		"url": "https://android-softgan.base44.app/PanelVendedoras",
+		"cleartext": true
+	}
+}

@@ -1,0 +1,1 @@
+import { BleClient } from '@capacitor-community/bluetooth-le'; export class ScaleService { async connect() { try { await BleClient.initialize(); const device = await BleClient.requestDevice(); console.log('Connected to', device.name); } catch (e) { console.error(e); } } }
